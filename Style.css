@@ -1,0 +1,124 @@
+#div1{
+	background-color: #2E2F30;
+	height: 50px;
+	position: fixed;
+	top: 30px;
+	width: 800px;
+	left:550px ;
+	color: white;
+
+}
+li{
+	display: inline;
+	background-color: #2E2F30;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: sans-serif;
+	border-right: 2px solid #38C6F2 ;
+}
+body{
+	margin: 0;
+	padding: 0s;
+	background-image: url(pexels-hasan-albari-1229861.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+em{
+	font-family: Calibri;
+	font-size: 20px;
+}
+#div2{
+	color: white;
+	position: fixed;
+	top: 200px;
+	left: 50px;
+
+}
+
+#ihed{
+	font-size: 100px;
+	font-family: Calibri;
+	font-weight: normal;
+	color:#38C6F2 ;
+}
+#istpara{
+	font-family:Calibri ;
+	font-size: 12;
+	font-weight: normal;
+}
+/*#istinput{
+	height: 30px;
+	width: 100px;
+	border: none;
+	border-radius: 45%;
+	background-color:#38C6F2 ;
+}*/
+#div3{
+	background-color:white;
+	position: fixed;
+	left: 40px;
+	right: 1000px;
+	height: 400px;
+}
+/*img{
+	height: auto;
+	width: 90px;
+}
+.loginbox #izhed{
+	float: left;
+	font-size: 20px;
+	border-bottom: 2px solid #38C6F2;
+	margin-bottom: 40px;
+	padding: 13px 0;
+	font-family: Calibri;
+}
+.loginbox{
+	position: absolute;
+	width: 280px;
+	top: 60%;
+	left: 80%;
+	transform: translate(-50%, -50% );
+	color: white;
+}
+.loginbox .textbox{
+
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	border-bottom: 1px solid white;
+}
+.textbox input{
+	border: none;
+	outline: none;
+	background: none;
+	color: white;
+	font-size: 18px;
+	width: 80%;
+	float: left;
+	margin: 10px;
+}
+.btn{
+	width: 100%;
+	background: none;
+	border: 2px solid #38C6F2;
+	color: white;
+	padding: 5px;
+	font-size: 18px;
+	cursor: pointer;
+	margin: 12px 0;
+	
+}
+*/
+a{
+	color: white;
+	text-decoration: none;
+}
+#istimage{
+	position: fixed;
+	top: 30px;
+	left: 5px;
+}
